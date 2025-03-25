@@ -39,7 +39,7 @@ export default function TokenTransfers() {
     <div className="relative bg-gray-50 rounded-xl shadow-lg overflow-hidden">
       {/* Banner */}
       <div
-        className="h-32 bg-cover bg-center"
+        className="h-50 bg-cover bg-center"
         style={{
           backgroundImage: `url('https://pbs.twimg.com/profile_banners/1757553204747972608/1732179198/1500x500')`,
         }}
